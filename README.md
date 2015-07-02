@@ -1,2 +1,10 @@
-# SiteDataDump
-Data dump of danmaku.us
+# 用途
+此repo为danmaku.us上的数据转存。
+目前以人工更新。
+
+# 文件格式
+待定
+
+# 许可
+作品原作者享有著作权。
+对作品的引用，修改，商业引用等授权请联系原作者。
